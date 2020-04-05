@@ -5,7 +5,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.0"
     defaultConfig {
-        applicationId "com.example.chaquopyapp"
+        applicationId "com.example.sharathchampzz7777"
         sourceSets {
             main {
                 python {
